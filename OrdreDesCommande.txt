@@ -8,3 +8,8 @@
 	git push -u origin master
 
 Salut à tous !
+Effectuer un clone d'un dépot distant
+	git clone adresseDuDepot
+
+Récupérer la nouvelle version d'un dépot distant
+	git pull
