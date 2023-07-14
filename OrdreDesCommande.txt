@@ -1,0 +1,8 @@
+1. Après modification ou création d'un fichier
+	git add .
+
+2. Pour créer un point de sauvegarde 
+	git commit -m "message"
+
+3. Pour envoyer les dernières modifs en ligne
+	git push -u origin master
