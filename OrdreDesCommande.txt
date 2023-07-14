@@ -6,3 +6,5 @@
 
 3. Pour envoyer les dernières modifs en ligne
 	git push -u origin master
+
+Salut à tous !
