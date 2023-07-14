@@ -6,3 +6,9 @@
 
 3. Pour envoyer les dernières modifs en ligne
 	git push -u origin master
+
+Effectuer un clone d'un dépot distant
+	git clone adresseDuDepot
+
+Récupérer la nouvelle version d'un dépot distant
+	git pull
